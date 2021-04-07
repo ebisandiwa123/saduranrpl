@@ -1,0 +1,12 @@
+Nim = 1811500113
+Nama = Ebi Sandiwa
+Kelompok = TI6J
+
+Hasil saya menyadur :
+1) Harus belajar untuk beretika komunikasi
+2) diharuskan belajar untuk tuntas dalam pembahasan
+3) patuhi 5M
+4) kegiatan perkuliahan menggunakan classroom, youtube dan telegram 
+5) anggota mahasiswa di usahakan harus aktif dan ingat sedang jam kuliah
+6) ditugaskan untuk membuat akun github
+7) mengisi rangkuman di github untuk memenuhi persyaratan absen
