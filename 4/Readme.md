@@ -1,0 +1,3 @@
+Nim = 1811500113
+Nama = Ebi Sandiwa
+Kelompok = TI6J
